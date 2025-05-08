@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 大家好！这里是陈树帆，是一名充满好奇心的机器人爱好者。从儿时拆装玩具到如今能独立设计智能系统，机器人始终是我探索科技与创造力的桥梁。
+
 我痴迷于将代码转化为行动的过程，享受在硬件组装、传感器调试和算法优化中解决难题的成就感。
+
 期待与志同道合的伙伴一起，用齿轮与代码转动无限可能！
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -36,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [A Simple Sand-skier with Internal Excitation](https://ieeexplore.ieee.org/abstract/document/10649685/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shufan Chen; Shuai Kang; Yuxi Gao; Yuan He; Chaoyue Zhao; Longchuan Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Self-adaptive rolling motion for snake robots in unstructured environments based on torque control](https://www.sciencedirect.com/science/article/pii/S2667379723000311)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shihao Ma a, Fatao Qin a, Shufan Chen b, Longchuan Li c, Jianming Wang d, Zengzeng Wang e, Shuai Li e, Xuan Xiao e
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
